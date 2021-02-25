@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Nine One",
+      "email": "nineone91@iconhunter.com",
+      "bidang": "RN Dev",
+      "id": 1
+    },
+    {
+      "name": "One",
+      "email": "one@gmail.com",
+      "bidang": "ReactJS Dev",
+      "id": 2
+    },
+    {
+      "name": "Nine",
+      "email": "nine@gmail.com",
+      "bidang": "RN Dev",
+      "id": 4
+    },
+    {
+      "name": "Ridho",
+      "email": "riridhodho@gmail.com",
+      "bidang": "Dev Ops",
+      "id": 7
+    }
+  ]
+}
